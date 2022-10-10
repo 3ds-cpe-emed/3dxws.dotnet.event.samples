@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIFClientConsoleApp", "EIFC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIFClientWinService", "EIFClientWinService\EIFClientWinService\EIFClientWinService.csproj", "{95AA3C9F-D713-48C8-9C39-4807C52B6FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIFWindowsFormsApp", "EIFWindowsFormsApp\EIFWindowsFormsApp.csproj", "{BC9E5864-FA62-4EA4-A65A-E629369D5BF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIFClientWindowsFormsApp", "EIFWindowsFormsApp\EIFClientWindowsFormsApp.csproj", "{BC9E5864-FA62-4EA4-A65A-E629369D5BF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

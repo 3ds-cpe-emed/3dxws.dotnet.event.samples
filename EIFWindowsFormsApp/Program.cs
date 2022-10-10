@@ -30,7 +30,7 @@ namespace EIFWindowsFormsApp
       {
          Application.EnableVisualStyles();
          Application.SetCompatibleTextRenderingDefault(false);
-         Application.Run(new EIFWindowsForm());
+         Application.Run(new EIFClientWindowsForm());
       }
    }
 }

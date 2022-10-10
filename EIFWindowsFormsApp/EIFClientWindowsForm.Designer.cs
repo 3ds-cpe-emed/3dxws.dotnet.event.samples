@@ -16,7 +16,7 @@
 
 namespace EIFWindowsFormsApp
 {
-   partial class EIFWindowsForm
+   partial class EIFClientWindowsForm
    {
       /// <summary>
       /// Required designer variable.

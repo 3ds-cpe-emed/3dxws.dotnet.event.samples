@@ -26,14 +26,14 @@ using System.Windows.Forms;
 
 namespace EIFWindowsFormsApp
 {
-   public partial class EIFWindowsForm : Form
+   public partial class EIFClientWindowsForm : Form
    {
       static IConnection m_connection = null;
       static ISession m_session = null;
       static IMessageConsumer m_consumer = null;
       static IConnectionFactory m_factory = null;
 
-      public EIFWindowsForm()
+      public EIFClientWindowsForm()
       {
          InitializeComponent();
       }
